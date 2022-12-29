@@ -1,0 +1,19 @@
+{
+  "name": "@timothyjulius/grpc-package",
+  "version": "1.0.0",
+  "description": "grpc test package",
+  "main": "record_directory_grpc_web_pb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timothy-Julius/grpc-package.git"
+  },
+  "author": "Timothy Julius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timothy-Julius/grpc-package/issues"
+  },
+  "homepage": "https://github.com/Timothy-Julius/grpc-package#readme"
+}
